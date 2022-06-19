@@ -2,8 +2,7 @@
     <form method="GET" action="{{ url('products')}}">
 		<div class="sidebar-widget mb-40">
 			<h3 class="sidebar-title">Filter by Price</h3>
-			<div class="price_filter">
-				<div id="slider-range"></div>
+			<div class="price_filter">				
 				<div class="price_slider_amount">
 					<div class="label-input">
 						<label>price : </label>

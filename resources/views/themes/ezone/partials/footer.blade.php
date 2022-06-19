@@ -6,7 +6,7 @@
                 <div class="footer-widget mb-30">
                     <a href="#"><img src="{{ asset('themes/ezone/assets/img/logo/2.png') }}" alt=""></a>
                     <div class="footer-about-2">
-                        <p>There are many variations of passages of Lorem Ipsum <br>the majority have suffered alteration in some form, by <br> injected humour</p>
+                      <p>Friperie is an e-commerce website for buying and selling used goods, especially branded goods that are suitable for use easily, safely, and with guaranteed quality. Join other users by starting to register sales products and shop for attractive offers anytime, anywhere. The security of your transactions will certainly be guaranteed.. Come join Friperie and start shopping now!</p>
                     </div>
                 </div>
                 <div class="footer-widget mb-30">
